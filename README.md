@@ -1,4 +1,4 @@
-# React-shop-cloudfront
+# React-shop-cloudfront forked by Andrei Dziubiankou
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
@@ -16,6 +16,8 @@ This is frontend starter project for nodejs-aws mentoring program. It uses the f
 - [Prettier](https://prettier.io/) as a code formatting tool
 - [TypeScript](https://www.typescriptlang.org/) as a type checking tool
 
+S3 bucket - http://adziubiankou-aws-store-app.s3-website-eu-west-1.amazonaws.com/
+CloudFront URL - https://d1laptjyk4agt6.cloudfront.net/
 ## Available Scripts
 
 ### `start`
